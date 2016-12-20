@@ -1,10 +1,10 @@
 #Training-Standards
 *	技术选型
-	项目管理：git
-	css预编译：sass
-	前端框架：vue2.0生态系统
-	构建工具：webpack
-	后台管理：nodejs
+	1项目管理：git
+	2css预编译：sass
+	3前端框架：vue2.0生态系统
+	4构建工具：webpack
+	5后台管理：nodejs
 
 *	学习资源
 	*	vue：
